@@ -19,7 +19,7 @@ Run `npm run dist` to compile all the source code into webpack bundles. And all 
 
 You can copy the `build` folder to anywhere you like, it's the released app.
 
-### Like have a try with the released app? ###
+### Like to have a try with the released app? ###
 
 Move into `{root}/build/`
 

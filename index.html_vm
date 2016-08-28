@@ -10,7 +10,7 @@
         <meta name="description" content="<%= htmlWebpackPlugin.options.description %>">
         <meta name="author" content="<%= htmlWebpackPlugin.options.username %>">
 
-        <% if (htmlWebpackPlugin.options.pushState) { %><base href="/"><% } %>
+        <% if (htmlWebpackPlugin.options.pushState) { %><base href="/to-do-material/"><% } %>
     </head>
     <body>
         <div id="view"></div>
