@@ -3,9 +3,9 @@
   "version": "1.0.0",
   "description": "React todo list app",
   "scripts": {
-    "dev": "rm -rf build; webpack --config webpack.dev.config.js",
-    "dist": "rm -rf build; webpack --config webpack.prod.config.js",
-    "start": "webpack-dev-server --content-base build/ --config webpack.dev.config.js --history-api-fallback --hot --inline"
+    "dev": "rm -rf docs; webpack --config webpack.dev.config.js",
+    "dist": "rm -rf docs; webpack --config webpack.prod.config.js",
+    "start": "webpack-dev-server --content-base docs/ --config webpack.dev.config.js --history-api-fallback --hot --inline"
   },
   "files": [
     "font",
