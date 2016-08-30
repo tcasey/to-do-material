@@ -15,13 +15,13 @@ Open [http://localhost:8080/](http://localhost:8080/) or [live-server](https://w
 
 Move the root of the created project.
 
-Run `npm run dist` to compile all the source code into webpack bundles. And all required resources are generated into `{root}/build/`.
+Run `npm run dist` to compile all the source code into webpack bundles. And all required resources are generated into `{root}/docs/`.
 
-You can copy the `build` folder to anywhere you like, it's the released app.
+You can copy the `docs` folder to anywhere you like, it's the released app.
 
 ### Like to have a try with the released app? ###
 
-Move into `{root}/build/`
+Move into `{root}/docs/`
 
 Open [http://localhost:8080](http://localhost:8080) to watch the released version
 

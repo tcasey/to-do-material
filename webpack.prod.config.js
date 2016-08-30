@@ -13,7 +13,7 @@ module.exports = {
         path: path.resolve(__dirname, 'docs'),
         filename: '[hash].[name].bundle.js',
         chunkFilename: '[hash].[id].bundle.js',
-        publicPath: '/'
+        publicPath: '/to-do-material/'
     },
     module: {
         loaders: [
